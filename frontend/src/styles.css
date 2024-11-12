@@ -1,0 +1,104 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #0044cc;
+    color: white;
+    padding: 1em;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 2em;
+  }
+  
+  .upload-container, .video-interview-container {
+    border: 1px solid #ddd;
+    padding: 1em;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 1em;
+    padding: 0.5em 1em;
+    background-color: #0044cc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0033a0;
+  }
+  
+  .video-interview-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  video {
+    width: 80%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #0044cc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0033a0;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .error-count {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  .video-interview-container {
+    position: relative;
+  }
+  
+  .transcript-window {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: auto; /* Allows scrolling when content overflows */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  .transcript-content {
+    font-size: 14px;
+    line-height: 1.5;
+    white-space: pre-wrap; /* Ensures new lines and spaces are preserved */
+  }
+  
+  .transcript-window h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  

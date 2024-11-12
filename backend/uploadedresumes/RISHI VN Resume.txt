@@ -1,0 +1,44 @@
+Rishi V N
+vnr1303@gmail.com +91 7025046262 
+EDUCATION
+Indian Institute of Technology,
+B.S. (D ata Science)
+Foundation Level2022 – present
+Chennai
+Vellore Institute of Technology
+B. Tech (Com puter Science)
+CGPA - 8.902022 – present
+Vellore
+Kuriakose Elias English Medium School
+ICSE(X) - 98.6%2018 – 2022
+Kottayam
+ISC(XII) 94.75%
+SKILLS
+Programming Languages
+C++, C, Python, Java
+Web Development
+HTML, CSS, JavaScript, React
+PROFESSIONAL EXPERIENCE
+Internship on Big Data Analytics using Deep Learning
+N ational U niversity of Singapore
+•Developed a deep learning model to generate verdicts based on previous case data 
+in the Supreme Courts of the UK, achieving a rogue score of 0.62.12/2023 – 01/2024
+•Conducted data scraping from the www.supremecourt.uk  website to gather 
+relevant data for analysis.
+•Designed and implemented the front-end components of the project using HTML, 
+CSS, and JavaScript.
+Internship on Machine Learning
+Corizo02/2024 – present
+CERTIFICATES
+Amazon Cloud Practitioner
+EXTRA-CURRICULAR ACTIVITIES
+Sports
+Basketball, Chess, Bodybulding
+Clubs
+•Active member of the Youth Red Cross Club of VIT
+• Part of the English Literary Association of VIT
+LANGUAGES
+English
+Tamil
+MalayalamJapanese
+Hindi
